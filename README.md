@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Edson!
 - 👀 I’m interested in code, books and friendship!
-- 🌱 I’m currently learning Javascript, LSP, SQL and C++
+- 🌱 I’m currently learning Javascript, Java, LSP, PL-SQL and C++
 - 📫 How to reach me Telegram @edsonreiss
