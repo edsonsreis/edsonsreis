@@ -1,4 +1,5 @@
-Hi, everyone! I´m Edson! 🤝
+Hi, everyone. I´m Edson! 🤝
+
 📚 I am a business analyst in IT. Graduated in Science and Technology and post-graduated in Information Systems Architecture. Constantly studying backend technologies, books and internet in general;
 
 💹 My goals are related to: Create and improve Human Resources, Personnel Department and Occupational Medicine and Safety systems.
